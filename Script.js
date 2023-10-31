@@ -1,4 +1,4 @@
-// 1.“person” class to hold all the details.
+// 3.“person” class to hold all the details.
   class Person {
   constructor(name, age, email) {
     this.name = name;
@@ -51,7 +51,7 @@ console.log("Updated Email: " + person1.getEmail());
 
 
 
-//2.class to calculate the uber price
+//4.class to calculate the uber price
 
 class UberPriceCalculator {
   constructor(baseFare, costPerMile, costPerMinute) {
